@@ -63,3 +63,7 @@ ion-icon {
 .aberto img {
   cursor: pointer;
 }
+
+.App {
+  padding-bottom: 90px;
+}
